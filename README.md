@@ -5,6 +5,18 @@ Inspiration for mkpw came from [Randall Munroe's xkcd comic #936 "Password stren
 
 ![xkcd #936: Password strength](http://imgs.xkcd.com/comics/password_strength.png)
 
+## Supported systems:
+
+mkpw should work on any POSIX-compatible system.
+
+## Compilation:
+
+To compile mkpw, just compile it, for example using gcc:
+
+```bash
+gcc -o mkpw mkpw.c
+```
+
 ## Usage:
 
 ```bash
